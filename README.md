@@ -1,7 +1,8 @@
-#**Aprendendo a programar com a ITuring**
+# Aprendendo a programar com a ITuring
 
-##DIA 1
-###Preparando a caixa de Ferramentas:
+## DIA 1
+
+### Preparando a caixa de Ferramentas:
 VSCode - Editor de código-fonte.
 Git - Sistema de controle de versões.
 Terminal -Para a comunicação com o sistema operacional e executar o programa que codificou.
@@ -9,18 +10,19 @@ Terminal -Para a comunicação com o sistema operacional e executar o programa q
 
 ● Principais comandos nativos do terminal:
 ``````
-○ pwd - mostrar em que pasta estamos
-○ ls - listar tudo que está dentro de uma pasta
-○ cd - mudar de diretório
-○ mkdir - criar uma pasta/dirertório
-○ touch - criar um arquivo
-○ cat - mostrar todo o conteúdo do arquivo
-○ head - mostrar o que está no início do arquivo
-○ grep - pesquisar conteúdo em arquivos
+pwd - mostrar em que pasta estamos
+ls - listar tudo que está dentro de uma pasta
+cd - mudar de diretório
+mkdir - criar uma pasta/dirertório
+touch - criar um arquivo
+cat - mostrar todo o conteúdo do arquivo
+head - mostrar o que está no início do arquivo
+grep - pesquisar conteúdo em arquivos
 ``````
 
-##DIA 2 e 3
-###Introdução ao Git e Github
+## DIA 2 e 3
+
+### Introdução ao Git e Github
 
 Repositório Local e Repositório Remoto
 
@@ -34,7 +36,7 @@ Você também pode pegar as alterações que o time fez no repositório remoto (
 GitHub) e trazer para sua máquina (repositório local).*
 
 
-Comandos Git básicos:
+● Comandos Git básicos:
 
 `````
 git config
@@ -50,8 +52,8 @@ git push
 -Tipos de dados, variáveis e memória
 -Expressões aritméticas
 
-##DIA 4
+## DIA 4
 Conhecendo o mundo da web com HTML + CSS + JavaScript.
 
-##DIA 5
+## DIA 5
 Próximos passos como pessoa programadora.
